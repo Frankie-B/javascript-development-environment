@@ -1,3 +1,5 @@
+// jshint esversion: 6
+
 import express from 'express';
 import path from 'path';
 import open from 'open';
